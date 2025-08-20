@@ -1,6 +1,6 @@
 # 🚀 My Portfolio Website
 
-![image](https://github.com/user-attachments/assets/a1cc937d-fbd5-41f4-be2c-2c7d3ec72dd5)
+![image](https://github.com/user-attachments/assets/7d51f1c1-9ae3-421e-9f24-664c215ded5f)
 
 ## 🛠 Installation & Set Up
 
