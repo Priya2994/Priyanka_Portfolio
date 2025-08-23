@@ -112,9 +112,36 @@ export const PROJECTS: IProject[] = [
         ],
     },
     {
+        title: 'Mahzooz Static',
+        slug: 'Mahzooz-static',
+        liveUrl: 'https://kycf.mahzooz.ae',
+        year: 2025,
+        description: `
+      Celebrate life-changing possibilities with Mahzooz – the UAE’s first and leading weekly draw known for its consistent and highest payouts, offering participants the chance to win big. We've made it easy to unlock millions of dirhams every Saturday, turning Saturday into the best – and luckiest – day of the week! <br/> <br/>
+      `,
+        role: `
+      Senior Software Engineer <br/>
+      Owned the entire development lifecycle of the website including english and arabic languages, involved in reviewing and merging the PR'S, 
+      Involved in the design and architecture of the project, Involved in guiding the team members for the best practices and code quality: <br/>
+      <ul>
+      
+        <li>Created the single page website with responsive view</li>
+        <li>Created the entire base of the website</li>
+        <li>Created all the required components using latest technologies</li>
+      </ul>
+      `,
+        techStack: ['Next.js 15.5.0', 'Reactjs', 'Tailwind 4'],
+        thumbnail: '/projects/thumbnail/mahzooz-static.png',
+        longThumbnail: '/projects/long/mahzooz-static.png',
+        images: [
+            '/projects/images/mahzooz-static1.png',
+            '/projects/images/mahzooz-static2.png',
+        ],
+    },
+    {
         title: 'Mahzooz',
         slug: 'Mahzooz',
-        liveUrl: 'https://www.mahzooz.ae/en',
+        liveUrl: 'https://kycf.mahzooz.ae',
         year: 2024,
         description: `
       Celebrate life-changing possibilities with Mahzooz – the UAE’s first and leading weekly draw known for its consistent and highest payouts, offering participants the chance to win big. We've made it easy to unlock millions of dirhams every Saturday, turning Saturday into the best – and luckiest – day of the week! <br/> <br/>
