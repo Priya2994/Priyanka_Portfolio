@@ -51,7 +51,7 @@ const Banner = () => {
                             PRIYANKA
                         </span>
                         .Senior Frontend Developer with 8+ years of experience
-                        in HTML,CSS,SASS,Bootstrap,Jquery,Git including 3+ years
+                        in HTML,CSS,SASS,Bootstrap,Jquery,Git including 5+ years
                         mastering React.js,Redux, Next.js,SEO, Tailwind CSS,
                         Javascript, Typescript,REST API, GRAPHQL and
                         Strapi.js—crafting high-performance, scalable, and
