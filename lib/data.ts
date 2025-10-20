@@ -6,7 +6,7 @@ export const GENERAL_INFO = {
     emailSubject: "Let's collaborate on a project",
     emailBody: 'Hi Priyanka Manickkam, I am reaching out to you because...',
 
-    upworkProfile: '/resume/Priyanka_M_SFD_Resume.pdf',
+    upworkProfile: '/resume/PriyankaM-SFD-Resume.pdf',
 };
 
 export const SOCIAL_LINKS = [
