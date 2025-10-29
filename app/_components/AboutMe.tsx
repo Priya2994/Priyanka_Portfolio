@@ -74,7 +74,7 @@ const AboutMe = () => {
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
                                 I&apos;m a Frontend Developer with 8+ years of
-                                experience, including 3+ years mastering
+                                experience, including 5+ years mastering
                                 React.js, Next.js, Redux, REST API,
                                 GRAPHQL,Tailwind CSS, Javascript, Typescript and
                                 Strapi.js—crafting high-performance, scalable,
